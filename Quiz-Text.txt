@@ -1,0 +1,7 @@
+Solve these problems and submit your github repository link:
+
+01. Suppose a zoo has a rule that states animals are fed in the morning, and if the morning feeding time is missed, they are fed in the afternoon. Write a simple JavaScript code snippet that checks if it's morning or afternoon and determines the feeding time for the animals.
+
+02. Suppose there's a river and a boat that can only carry a maximum weight of 500 kilograms. Write a JavaScript program that determines if a group of passengers can safely cross the river without exceeding the boat's weight limit.
+
+03. Create a JavaScript program that generates a message using template literals to display a person's name and their favorite hobby. The result should look like this "Hi, my name is _________. My favorite hobby is _________."
